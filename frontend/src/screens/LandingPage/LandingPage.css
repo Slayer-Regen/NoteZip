@@ -1,0 +1,35 @@
+.main{
+    min-height: 93vh;
+    align-items: center;
+    display: flex;
+    background-image: url("../../Welcom.png");
+    background-position: center;
+    background-size:cover;
+    width: 100%;
+    
+    
+}
+.intro-text{
+    width: 100%;
+    text-align: center;
+    margin-top: 190px;
+}
+.buttonContainer {
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-evenly;
+  }
+  
+.landingbutton {
+    width: 200px;
+    height: 55px;
+  }
+.subtitle{
+    font-size: 20px;
+}
+  
+@media only screen and (min-width: 1200px) {
+    .buttonContainer {
+      padding: 0 200px;
+    }
+}

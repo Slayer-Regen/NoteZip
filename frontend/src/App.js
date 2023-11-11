@@ -1,6 +1,17 @@
 
 import './App.css';
+import Footer  from './components/Footer/Footer';
+import Header  from './components/Header/Header';
+import LandingPage from './screens/LandingPage/LandingPage';
 
-const App = () => <h1 className="App"> SIUUU</h1>
+const App = () => (
+  <>
+    <Header/>
+    
+      <LandingPage/>
+    
+    <Footer/>
+  </>
+)
 
 export default App;
