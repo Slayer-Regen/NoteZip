@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6ba5e82e.css",
+    "main.js": "/static/js/main.fad9e8fa.js",
+    "static/js/787.9e9f4ffd.chunk.js": "/static/js/787.9e9f4ffd.chunk.js",
+    "static/media/Welcom.png": "/static/media/Welcom.0504fceaa1462e0442d7.png",
+    "index.html": "/index.html",
+    "main.6ba5e82e.css.map": "/static/css/main.6ba5e82e.css.map",
+    "main.fad9e8fa.js.map": "/static/js/main.fad9e8fa.js.map",
+    "787.9e9f4ffd.chunk.js.map": "/static/js/787.9e9f4ffd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ba5e82e.css",
+    "static/js/main.fad9e8fa.js"
+  ]
+}
